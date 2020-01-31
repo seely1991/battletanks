@@ -1,0 +1,43 @@
+* {
+	font-weight: 200;
+	font-family: 'Press Start 2P'; 
+	color: white;
+}
+
+.selector {
+	font-size: 10px;
+	display: inline-block;
+	position: absolute;
+	z-index: '5';
+	top: 10px;
+
+}
+
+.radios {
+	font-size: 11px;
+	margin: 10px;
+}
+
+#velocity {
+	font-size: 13px;
+	display: inline-block;
+	font-weight: 200;
+	font-family: 'Press Start 2P'; 
+	color: white; 
+	position: relative; 
+	left: 20px;
+}
+
+p {
+	top: 60px;
+	display: block;
+	position: relative;
+}
+
+.money {
+	top: 60px;
+	left: 20px;
+	display: block;
+	position: relative;
+	font-size: 13px;
+}

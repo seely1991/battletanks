@@ -1,0 +1,23 @@
+<head>
+	<link href="./battletanks.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+  <link rel="shortcut icon" href="./battletanks.png">
+</head>
+<body>
+   <div id="test">
+    <canvas id="myCanvas" height="550px" width="1000px" style="background: blue; position: absolute" >
+    </canvas>
+  </div>
+  <div class="selector">
+  <input class="radios" type="radio" id="atomBomb" name="bullets">atom bomb $1500
+  <input class="radios" type="radio" id="triple" name="bullets">triple $700
+	<input class="radios" type="radio" id="double" name="bullets">double $400
+	<input class="radios" type="radio" id="drill" name="bullets">drill $300
+  <input class="radios" type="radio" id="normal" name="bullets" checked>normal $200
+  <input class="radios" type="radio" id="random" name="bullets">random +$200
+  </div>
+  <p id="p1$" class="money"></p>
+  <p id="p2$" class="money"></p>
+  <p id="velocity"></p>
+  <script src="./battletanks.js" type="text/javascript"></script>
+</body>
