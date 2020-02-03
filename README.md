@@ -9,4 +9,4 @@
 
 
 This is a project I made early on in my programming journey. It is a good example of me attempting to run before I could walk. 
-Some day I would like to go back and create this project in a way that is much more efficient and runs more smoothly.
+Some day I would like to go back and create this project in a way that is much more efficient and runs more smoothly. I used my knowledge of the physics of projectile motion for the trajectory of the bullets, as well as sine graphs to create the hills. 
